@@ -34,7 +34,6 @@ Here is a list of what I've worked with:
 #### How to reach me
 - <img src="https://user-images.githubusercontent.com/68467379/156589277-4141e6b0-abc0-457a-a237-edbf1e33d3e7.png?raw=true" width="20" height="20" align="center"/> toptalent0107@gmail.com
 - <img src="https://user-images.githubusercontent.com/68467379/156588352-bed86522-7c93-4726-ad82-fc3d641299a1.png?raw=true" width="20" height="20" align="center"/> live:.cid.3c5d1d664d63a84e
-- <img src="https://user-images.githubusercontent.com/68467379/156589760-061d5e38-b92e-4a5e-bda0-800a530be410.png?raw=true" width="20" height="20" align="center"/> +90 5427448140
 
 ### Languages and Tools:
 
