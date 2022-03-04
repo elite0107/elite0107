@@ -1,4 +1,4 @@
-## Senior Front-end Developer 👍
+## Senior Front-end Developer
 
 Hello, Everyone. Thank you for having a look at my profile
 
@@ -31,9 +31,31 @@ Here is a list of what I've worked with:
 - 💗	Honesty and dedication.
 - 💗	Reliability and Communication is well maintained.
 
+<h4>How to reach out to me</h4>
+<code><img src="https://user-images.githubusercontent.com/68467379/156589277-4141e6b0-abc0-457a-a237-edbf1e33d3e7.png?raw=true" width="20" height="20"/></code>
+<code><img src="https://user-images.githubusercontent.com/68467379/156588352-bed86522-7c93-4726-ad82-fc3d641299a1.png?raw=true" width="20" height="20"/></code>
+<code><img src="https://user-images.githubusercontent.com/68467379/156589760-061d5e38-b92e-4a5e-bda0-800a530be410.png?raw=true" width="20" height="20"/></code>
+<br/><br/>
+
 #### How to reach me
 - <img src="https://user-images.githubusercontent.com/68467379/156589277-4141e6b0-abc0-457a-a237-edbf1e33d3e7.png?raw=true" width="20" height="20" align="center"/> toptalent0107@gmail.com
 - <img src="https://user-images.githubusercontent.com/68467379/156588352-bed86522-7c93-4726-ad82-fc3d641299a1.png?raw=true" width="20" height="20" align="center"/> live:.cid.3c5d1d664d63a84e
+
+### 📊 Github Stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<summary>💻 GitHub Profile Stats</summary>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elite's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elite0107&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Elite's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elite0107&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<summary>⚡ Recent GitHub Activity</summary>
+<br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Elite's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elite0107&custom_title=Elite's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
 ### Languages and Tools:
 
