@@ -24,22 +24,26 @@ Here is a list of what I've worked with:
 
 
 ### About Myself<br/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/68467379/156583723-063a1d20-594c-429f-8926-2597a3753289.gif?raw=true" width="400" height="256" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/68467379/156583723-063a1d20-594c-429f-8926-2597a3753289.gif?raw=true" width="400" height="400" />
 
 - 💗	I am friendly to work with.
 - 💗	Commitment is commitment.
 - 💗	Honesty and dedication.
 - 💗	Reliability and Communication is well maintained.
 
-<h4>How to reach out to me</h4>
-<code><img src="https://user-images.githubusercontent.com/68467379/156589277-4141e6b0-abc0-457a-a237-edbf1e33d3e7.png?raw=true" width="20" height="20"/></code>
-<code><img src="https://user-images.githubusercontent.com/68467379/156588352-bed86522-7c93-4726-ad82-fc3d641299a1.png?raw=true" width="20" height="20"/></code>
-<code><img src="https://user-images.githubusercontent.com/68467379/156589760-061d5e38-b92e-4a5e-bda0-800a530be410.png?raw=true" width="20" height="20"/></code>
-<br/><br/>
 
-#### How to reach me
-- <img src="https://user-images.githubusercontent.com/68467379/156589277-4141e6b0-abc0-457a-a237-edbf1e33d3e7.png?raw=true" width="20" height="20" align="center"/> toptalent0107@gmail.com
-- <img src="https://user-images.githubusercontent.com/68467379/156588352-bed86522-7c93-4726-ad82-fc3d641299a1.png?raw=true" width="20" height="20" align="center"/> live:.cid.3c5d1d664d63a84e
+```javascript
+const callEliteBy = (type) => {
+	switch(type) {
+		case: "Skype":
+			return "live:.cid.3c5d1d664d63a84e";
+		case: "gmail":
+			return "toptalent0107@gmil.com";
+		default:
+			break;
+	}
+}
+```
 
 ### Github Stats
 
