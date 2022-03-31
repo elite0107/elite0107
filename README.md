@@ -22,16 +22,6 @@ Here is a list of what I've worked with:
 - Blockchain: NFT marketplace, Cryptocoins Exchainge Development
   Smart Contracts(Solidity), Token Development based on Ethereum, Binance
 
-
-### About Myself<br/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/68467379/156583723-063a1d20-594c-429f-8926-2597a3753289.gif?raw=true" width="400" height="400" />
-
-- 💗	I am friendly to work with.
-- 💗	Commitment is commitment.
-- 💗	Honesty and dedication.
-- 💗	Reliability and Communication is well maintained.
-
-
 ```javascript
 const callEliteBy = (type) => {
 	switch(type) {
